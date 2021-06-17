@@ -8,7 +8,7 @@ Hosted on: https://grandprix-2021.web.app
 - A fully intractive Map with the Departure to Arrival route
 - Display relevant Charging Stations along the way
 - Provides a way for the user to select only the Fast Charging Stations
-- User is able to visualize the Charging Station information such as Address, socket type and number of sockets 🔌
+- User is able to visualize the Charging Station information such as Address, socket type and number of sockets
 
 ## Development 
 
