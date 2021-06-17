@@ -1,0 +1,19 @@
+{
+  "name": "grand-prix",
+  "version": "1.0.0",
+  "description": "This Web App displays a route from Lisbon to Algarve and the available [Charging Stations](https://tblx-daimler-trucks-and-buses.getsandbox.com/charging-stations) along the way ⚡",
+  "main": "credentials.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masoudsoleymani/grand-prix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masoudsoleymani/grand-prix/issues"
+  },
+  "homepage": "https://github.com/masoudsoleymani/grand-prix#readme"
+}

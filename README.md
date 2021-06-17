@@ -16,7 +16,3 @@ This Web App displays a route from Lisbon to Algarve and the available [Charging
   ### Installation
   - clone the repo
   - `yarn` for dependencies installation
-
-  ### Running
-  - `yarn start`
-  - `yarn build` for production
