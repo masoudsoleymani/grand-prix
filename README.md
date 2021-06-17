@@ -24,7 +24,7 @@ Hosted on: https://grandprix-2021.web.app
   - Open the `index.html` file in your browser
 
   ### Structure
-  
+  ```
   |   README.md
   |   index.html
   |   ...
@@ -40,7 +40,8 @@ Hosted on: https://grandprix-2021.web.app
   |
   |___  media
        | ...
-
+  ```
+  
 ## License
 
 This project is licensed under the terms of the MIT license. See [LICENSE](LICENSE) 
