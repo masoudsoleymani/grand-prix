@@ -58,6 +58,7 @@ function addRouteShapeToMap(route) {
       bounds: polyline.getBoundingBox()
     });
   });
+  map.setZoom(9);
 }
 
 routeFromAtoB(platform);
