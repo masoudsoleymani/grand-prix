@@ -48,4 +48,6 @@ const addMarkers = (chargingStations) => {
 fetchChargingStations()
   .then( allChargingStations => 
     config(allChargingStations)
-  );
+  ).then( () => {
+    document.getElementById("loader").className += "hidden";
+  });
