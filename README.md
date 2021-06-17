@@ -2,7 +2,7 @@
 
 This Web App displays a route from Lisbon to Algarve and the available [Charging Stations](https://tblx-daimler-trucks-and-buses.getsandbox.com/charging-stations) along the way ⚡
 
-Published at: https://grandprix-2021.web.app/
+Published at: https://grandprix-2021.web.app
 
 ## Features
 - Renders a Map with the Departure marker, Arrival marker and a route
