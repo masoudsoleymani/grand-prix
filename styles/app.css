@@ -17,3 +17,48 @@ h1 {
     width: 100vw;
     height: 100vh;
 }
+
+/* Selection panel Style */
+.selection-panel {
+    position: absolute;
+    display: none;
+    bottom: 1%;
+    left: 5%;
+    z-index: 1;
+    margin: 15px;
+    padding: 30px 20px 30px 20px;
+    background-color: rgba(80, 80, 80, 0.7);
+    border-radius: 5px;
+    color: #ffffff;
+}
+
+.selection-panel h1 {
+    color: #20D90F;
+    margin: 0;
+    text-align: center;
+}
+
+/* Selection button Style */
+.selection-btn {
+    position: absolute;
+    left: 1%;
+    bottom: 8%;
+    border-radius: 50%;
+    background: #ffffff;
+    font-size: 2rem;
+    cursor: pointer;
+}
+
+.selection-btn:hover {
+    background: #a6a6a6;
+}
+
+/* Info bubble Style */
+.H_ib_body {
+    background: rgb(185, 240, 137);
+    width: 275px;
+}
+
+.H_ib.H_ib_top .H_ib_tail::after {
+    border-color: rgb(185, 240, 137) transparent;
+}

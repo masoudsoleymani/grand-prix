@@ -13,6 +13,14 @@
   </head>
   <body>
     <div id="map"></div>
+    <div id="selection-panel" class="selection-panel">
+      <h1>Grand Prix 2021</h1>
+      <input type="radio" name="chargers" id="all" checked >
+      <label >⚡️All Charging Stations</label><br>
+      <input type="radio" name="chargers" id="fast">
+      <label >⚡️Fast Charging Stations</label><br>
+    </div>
+    <button onclick=togglePanel() class="selection-btn">⚡︎</button>
 
     <script type="text/javascript" src='./credentials.js'></script>
     <script type="text/javascript" src='scripts/map.js'></script>
