@@ -1,7 +1,8 @@
 # Grand-Prix
 
 This Web App displays a route from Lisbon to Algarve with the available [Charging Stations](https://tblx-daimler-trucks-and-buses.getsandbox.com/charging-stations) along the way ⚡
-And is written in Vanilla JavaScript. (I did not see the necessity of using a library/ framework for this small POC)
+#
+It is written in Vanilla JavaScript. (I did not see the necessity of using a library/ framework for this small POC)
 
 Hosted on: https://grandprix-2021.web.app
 
